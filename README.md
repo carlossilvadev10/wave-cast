@@ -268,6 +268,6 @@ Este proyecto está bajo la Licencia MIT. Ver [LICENSE](LICENSE) para más detal
 
 ---
 
-**Hecho con ❤️ y mucho ☕ por [Tu Nombre]**
+**Hecho con ❤️ y mucho ☕ por Carlos Silva.**
 
 ⭐ Si te gustó el proyecto, ¡dale una estrella en GitHub!
