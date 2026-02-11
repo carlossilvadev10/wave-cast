@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "image": "/blog-1.png",
+        "title": "Voz y esencia: El lado gumano",
+        "description": "Un viaje íntimo a las historias y rituales que definen a las voces detrás del micrófono.",
+        "details": "Exploramos la metamorfosis de nuestros presentadores: desde la transición de la radio convencional hasta la búsqueda de una identidad sonora propia. Kenneth Hayes y Sarah Mitchell revelan sus rituales pre-grabación, sus miedos iniciales y la firme convicción de que la imperfección humana es el ingrediente secreto de la conexión. Este especial incluye anécdotas exclusivas sobre la gestión emocional de la exposición pública y consejos prácticos para encontrar tu propia autenticidad en un mundo saturado de contenido.",
+        "type": "Música",
+        "date": "2026-03-10",
+        "author": "Sofía Reynolds",
+        "tags": ["Backstage", "Hosts", "Radio", "Inspiración", "Productividad", "Autenticidad", "Entrevistas"],
+        "quiz": [
+            { "question": "¿Qué motiva a los hosts a dedicarse al podcasting?", "answer": "La pasión por compartir historias auténticas y conectar con personas que comparten sus intereses y valores." },
+            { "question": "¿Cómo se preparan los anfitriones antes de cada grabación?", "answer": "Investigan a fondo sobre el tema y el invitado, preparan preguntas clave y crean un ambiente relajado para conversaciones genuinas." },
+            { "question": "¿Qué desafíos enfrentan los hosts al inicio de su carrera?", "answer": "Superar el miedo al micrófono, encontrar su voz única y construir una audiencia desde cero requiere consistencia y autenticidad." }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "/blog-2.png",
+        "title": "Arquitectura del storytelling",
+        "description": "Domina las estructuras narrativas para convertir simples charlas en experiencias inmersivas.",
+        "details": "Desglosamos la ingeniería detrás de los relatos más potentes. Aplicamos el suspense de Hitchcock y el 'Viaje del Héroe' de Campbell al formato audio para entender cómo retener la atención en la era de la distracción. A través de ejercicios de diseño narrativo y entrevistas con guionistas de cine, aprenderás a gestionar el silencio como una herramienta de tensión, a estructurar revelaciones emocionales y a construir mundos sonoros donde el oyente es el protagonista de su propia imaginación.",
+        "type": "Historia",
+        "date": "2026-05-16",
+        "author": "Daniel Carter",
+        "tags": ["Storytelling", "Narrativa", "Guion", "Creatividad", "Técnicas de Audio", "Psicología", "Educación"],
+        "quiz": [
+            { "question": "¿Cuál es el secreto de una narrativa memorable en un podcast?", "answer": "Combinar estructura clara (inicio, desarrollo, clímax) con detalles sensoriales y emocionales que transporten al oyente al momento." },
+            { "question": "¿Cómo se mantiene la atención del oyente durante toda la conversación?", "answer": "Alternando ritmos narrativos, usando pausas estratégicas, incorporando preguntas retóricas y revelando información progresivamente." },
+            { "question": "¿Qué diferencia una buena historia de una extraordinaria?", "answer": "La vulnerabilidad del narrador y su capacidad para encontrar lo universal en experiencias personales específicas." }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "/blog-3.png",
+        "title": "Jones: Crónica de un renacimiento",
+        "description": "Una charla cruda sobre humor, colapso creativo y la redención a través del arte.",
+        "details": "En esta sesión exclusiva, Jones analiza su trayectoria desde los sótanos de la comedia hasta el estrellato cultural. Sin tapujos, aborda el burnout que detuvo su carrera en 2023 y cómo la terapia redefinió su proceso creativo. Es una lección magistral sobre la responsabilidad del humor en una sociedad polarizada y la importancia de abrazar el fracaso público como el catalizador definitivo para la innovación artística y personal.",
+        "type": "Comedia",
+        "date": "2026-01-12",
+        "author": "Marcus Lee",
+        "tags": ["Entrevista", "Comedia", "Cultura", "Salud Mental", "Creatividad", "Resiliencia"],
+        "quiz": [
+            { "question": "¿Qué hace que Jones sea un invitado tan especial?", "answer": "Su habilidad única para combinar humor inteligente con reflexiones profundas sobre la condición humana contemporánea." },
+            { "question": "¿Cuál fue el momento más revelador de la entrevista?", "answer": "Cuando Jones compartió cómo el fracaso en su primera gira lo llevó a redefinir completamente su enfoque creativo." },
+            { "question": "¿Qué consejo clave dio Jones a creadores emergentes?", "answer": "No perseguir la viralidad, sino construir una conexión genuina con 100 fans verdaderos que amplifiquen tu mensaje naturalmente." }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "/blog-4.png",
+        "title": "La curaduría definitiva",
+        "description": "Los episodios que rompieron moldes y transformaron nuestra percepción del mundo.",
+        "details": "Más que un ranking por descargas, esta es una selección de momentos que generaron un cambio real. Desde el impacto de la salud mental con la Dra. Ramírez hasta el futuro ético de la IA, analizamos qué hizo que estos episodios se volvieran virales. Incluimos testimonios de la comunidad, marcas de tiempo con los puntos de inflexión de cada charla y una mirada técnica a la producción que permitió que estas historias resonaran con tal fuerza.",
+        "type": "Podcast",
+        "date": "2026-03-24",
+        "author": "Laura Bennett",
+        "tags": ["Recomendaciones", "Best Of", "Comunidad", "Tendencias", "Salud Mental", "Tecnología", "Filosofía"],
+        "quiz": [
+            { "question": "¿Qué tienen en común los episodios más escuchados?", "answer": "Abordan temas universales (propósito, relaciones, superación) desde perspectivas únicas y con invitados carismáticos." },
+            { "question": "¿Por qué ciertos episodios se vuelven virales?", "answer": "Porque tocan nervios culturales actuales, ofrecen soluciones prácticas o revelan verdades incómodas que muchos piensan pero pocos dicen." },
+            { "question": "¿Cómo se seleccionan los episodios para este top?", "answer": "Combinando métricas de reproducción, engagement en redes, comentarios de oyentes y el impacto transformador reportado por la audiencia." }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "/blog-5.png",
+        "title": "Blueprint del Podcaster Pro",
+        "description": "De la idea al ranking: la guía técnica y estratégica para lanzar tu show.",
+        "details": "Condensamos años de experiencia en una hoja de ruta sin fricciones. Desde la elección del micrófono ideal según tu presupuesto hasta la optimización del SEO sonoro y la gestión del hosting. Esta masterclass aborda el flujo de trabajo de post-producción, la creación de una identidad visual impactante y estrategias psicológicas para vencer el síndrome del impostor, asegurando que tu primer episodio sea el inicio de una carrera sostenible.",
+        "type": "Podcast",
+        "date": "2026-04-17",
+        "author": "Ethan Walker",
+        "tags": ["Tutorial", "Producción", "Hardware", "Software", "Marketing", "Guía", "SEO"],
+        "quiz": [
+            { "question": "¿Cuál es el error más común al iniciar un podcast?", "answer": "Enfocarse demasiado en el equipo técnico antes de definir claramente el concepto, audiencia y propuesta de valor única." },
+            { "question": "¿Qué equipo básico se necesita para empezar?", "answer": "Un micrófono USB decente, auriculares, software gratuito de edición y un espacio tranquilo son suficientes para comenzar." },
+            { "question": "¿Cuántos episodios deberías tener listos antes de lanzar?", "answer": "Idealmente 3-5 episodios permiten mantener consistencia inicial mientras construyes ritmo de producción y aprendes del feedback." }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "/blog-6.png",
+        "title": "Bitácora del crecimiento",
+        "description": "Lo que cinco años frente al micro nos enseñaron sobre la vida y los negocios.",
+        "details": "El equipo comparte una reflexión cruda sobre la evolución del show. Analizamos cómo el arte de escuchar transformó nuestras relaciones personales y cómo el equilibrio entre vulnerabilidad y profesionalismo se convirtió en nuestra mayor ventaja competitiva. Hablamos de los fracasos que nadie vio, la gestión de la crítica y la importancia de celebrar los hitos invisibles que sostienen la pasión a largo plazo.",
+        "type": "Personas",
+        "date": "2026-08-11",
+        "author": "Natalie Brooks",
+        "tags": ["Crecimiento Personal", "Mentalidad", "Experiencias", "Liderazgo", "Vulnerabilidad", "Carrera"],
+        "quiz": [
+            { "question": "¿Qué lección de podcasting se aplica a la vida diaria?", "answer": "La importancia de escuchar activamente antes de hablar, hacer mejores preguntas y estar presente en conversaciones difíciles." },
+            { "question": "¿Cómo cambia el podcasting la perspectiva personal?", "answer": "Expone constantemente a nuevas ideas y experiencias que cuestionan suposiciones propias y expanden la empatía." },
+            { "question": "¿Qué habilidad inesperada desarrollan los podcasters?", "answer": "Resiliencia emocional al exponerse públicamente, recibir críticas constructivas y perseverar pese a métricas desalentadoras iniciales." }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "/blog-7.png",
+        "title": "Eco de voces: Nuestra comunidad",
+        "description": "Relatos reales de transformación inspirados por nuestras conversaciones.",
+        "details": "El podcast deja de ser un archivo de audio para convertirse en un motor de cambio. Recopilamos testimonios de oyentes que tomaron decisiones de vida cruciales, desde cambios de carrera hasta la reconciliación familiar, tras escuchar nuestros episodios. Es una prueba tangible de que la comunicación honesta es un catalizador social y una mirada a cómo las historias individuales forman un tejido colectivo de inspiración y apoyo mutuo.",
+        "type": "Historias",
+        "date": "2026-11-05",
+        "author": "Camila Torres",
+        "tags": ["Comunidad", "Testimonios", "Impacto Social", "Inspiración", "Oyentes", "Casos de Éxito"],
+        "quiz": [
+            { "question": "¿Cuál es el impacto más común que reportan los oyentes?", "answer": "Sentirse menos solos al escuchar a otros compartir luchas similares y descubrir que el crecimiento es un proceso compartido." },
+            { "question": "¿Cómo usan los oyentes el contenido del podcast?", "answer": "Como compañía en rutinas diarias, herramienta de desarrollo personal, tema de conversación con amigos y fuente de ideas accionables." },
+            { "question": "¿Qué tipo de transformaciones reportan los oyentes?", "answer": "Desde cambios de carrera y mejora de relaciones hasta nueva perspectiva sobre desafíos personales y motivación para crear proyectos propios." }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "/blog-8.png",
+        "title": "La revolución del audio",
+        "description": "Del RSS feed a la IA: el futuro tecnológico de la experiencia sonora.",
+        "details": "Analizamos la trayectoria tecnológica del audio bajo demanda. Desde la democratización del iPod hasta la irrupción del audio espacial y la clonación de voz por IA. Este artículo explora cómo los algoritmos de recomendación han cambiado el consumo y qué nos depara el futuro: podcasts interactivos, integración con realidad aumentada y nuevos ecosistemas de monetización que están redefiniendo las reglas de la industria mediática global.",
+        "type": "Tecnología",
+        "date": "2026-03-09",
+        "author": "Alex Morgan",
+        "tags": ["Tecnología", "Historia Digital", "Innovación", "IA", "Streaming", "Futuro", "Monetización"],
+        "quiz": [
+            { "question": "¿Cómo ha evolucionado la distribución de podcasts?", "answer": "De descargas en iTunes a streaming instantáneo en múltiples plataformas, con algoritmos de recomendación personalizados y transcripciones automáticas." },
+            { "question": "¿Qué tecnología cambió más radicalmente el podcasting?", "answer": "Los micrófonos USB accesibles y software de edición intuitivo democratizaron la producción, eliminando barreras técnicas y económicas." },
+            { "question": "¿Hacia dónde se dirige el futuro del podcasting?", "answer": "Integración con IA para personalización extrema, experiencias interactivas, audio espacial y monetización diversificada más allá de publicidad tradicional." }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "/blog-9.png",
+        "title": "Tribus digitales: Engagement real",
+        "description": "Estrategias avanzadas para convertir oyentes en una comunidad leal.",
+        "details": "Pasar del broadcasting a la conversación es un arte. Desglosamos tácticas para nutrir espacios en Discord y redes sociales, programas de embajadores y la creación de episodios co-creados. Analizamos métricas de fidelización que realmente importan y cómo evitar los errores que fragmentan a las comunidades, bajo la premisa de que los números atraen patrocinadores, pero las tribus comprometidas aseguran la relevancia y el impacto a largo plazo.",
+        "type": "Red",
+        "date": "2026-03-14",
+        "author": "Ryan Peterson",
+        "tags": ["Comunidad", "Engagement", "Estrategia", "Redes Sociales", "Fidelización", "Marketing Digital"],
+        "quiz": [
+            { "question": "¿Cuál es la diferencia entre audiencia y comunidad?", "answer": "Una audiencia consume pasivamente; una comunidad se involucra activamente, interactúa entre sí y co-crea valor alrededor del contenido." },
+            { "question": "¿Qué estrategia es más efectiva para construir comunidad?", "answer": "Responder genuinamente a cada comentario, crear espacios de conversación (Discord, grupos) y dar voz a los oyentes en el contenido mismo." },
+            { "question": "¿Cómo se mide el éxito de una comunidad?", "answer": "No solo por números, sino por nivel de participación, contenido generado por usuarios, relaciones formadas y valor mutuo creado." }
+        ]
+    }
+]

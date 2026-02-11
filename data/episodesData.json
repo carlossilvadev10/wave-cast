@@ -1,0 +1,326 @@
+[
+    {
+        "id": 1,
+        "image": "/episode-1.png",
+        "host": "Kenneth Hayes",
+        "guest": "Dra. Elena Rossi, psicóloga cognitiva y consultora de narrativa para estudios de animación, especialista en el impacto emocional de los arquetipos.",
+        "time": "1h 10m",
+        "title": "El arte de contar historias",
+        "description": "Exploramos cómo las historias impactan en libros, películas y podcasts, y por qué resuenan en nosotros.",
+        "details": "En este episodio inaugural, profundizamos en la psicología detrás del storytelling. Analizamos las estructuras narrativas clásicas como el viaje del héroe, la importancia del conflicto interno en los personajes y cómo las marcas y creadores modernos utilizan la vulnerabilidad para conectar emocionalmente con audiencias globales.",
+        "episode": "Episodio 01",
+        "tags": ["Storytelling", "Psicología", "Narrativa", "Viaje del Héroe", "Marketing Emocional", "Comunicación", "Creatividad"],
+        "transcript": "Bienvenidos al primer episodio. Hoy Kenneth Hayes nos guía por el mundo del storytelling. 'Una historia no es solo lo que sucede, sino a quién le sucede y cómo le afecta', menciona Kenneth. Discutimos el viaje del héroe de Campbell y cómo las marcas hoy no venden productos, venden historias de superación. La vulnerabilidad es el puente más corto entre un extraño y tu marca.",
+        "quiz": [
+            { "question": "¿Por qué algunas historias se quedan grabadas en nuestra mente mientras otras las olvidamos?", "answer": "Por el uso de estructuras universales como el 'Viaje del Héroe' y la conexión emocional mediante la vulnerabilidad." },
+            { "question": "¿Es el storytelling solo para escritores y cineastas?", "answer": "No, es una herramienta clave para marcas y creadores modernos que buscan conectar genuinamente con su audiencia." },
+            { "question": "¿Qué papel juega el 'conflicto interno' en una buena narrativa?", "answer": "Es el motor que humaniza al personaje y permite que el público se identifique con sus luchas y evolución." }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "/episode-2.png",
+        "host": "Kamala Holquist",
+        "guest": "Marcus Thorne, investigador de folclore comparado y autor de la antología 'Sombras de la Ciudad', dedicado a documentar fenómenos sin explicación.",
+        "time": "44m",
+        "title": "Relatos desde las sombras",
+        "description": "Un viaje escalofriante hacia misterios inexplicables y cuentos que te harán dudar de todo.",
+        "details": "Exploramos el fenómeno de lo desconocido a través de una cuidada selección de relatos documentados y leyendas urbanas contemporáneas. Contamos con testimonios inquietantes de primera mano y el análisis de expertos en folclore que intentan encontrar la lógica detrás de lo sobrenatural.",
+        "episode": "Episodio 02",
+        "tags": ["Paranormal", "Misterio", "Folclore", "Leyendas Urbanas", "Terror Psicológico", "Suspenso"],
+        "transcript": "Kamala Holquist nos introduce en lo paranormal. 'El miedo es una reacción biológica, pero el terror es una construcción cultural', explica Marcus Thorne. Repasamos leyendas urbanas y testimonios de personas que vivieron desapariciones inexplicables. ¿Es posible que existan dimensiones que aún no comprendemos?",
+        "quiz": [
+            { "question": "¿Cuál es la diferencia fundamental entre sentir miedo y sentir terror?", "answer": "El miedo es una answer biológica instintiva, mientras que el terror es una construcción cultural alimentada por la incertidumbre." },
+            { "question": "¿Qué valor tienen las leyendas urbanas en la sociedad actual?", "answer": "Actúan como reflejos de nuestros temores colectivos y ayudan a procesar lo que la ciencia aún no puede explicar." },
+            { "question": "¿Por qué nos atraen las historias de desapariciones inexplicables?", "answer": "Por el desafío intelectual que suponen y la fascinación humana por los límites de nuestra realidad conocida." }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "/episode-3.png",
+        "host": "Lucía Bennett",
+        "guest": "Dr. Julian Vane, ingeniero jefe en computación cuántica y asesor de ética en IA para organismos internacionales de tecnología emergente.",
+        "time": "1h 01m",
+        "title": "Innovadores que moldean el mañana",
+        "description": "Una inmersión profunda en las tecnologías emergentes y las mentes que están transformando el futuro.",
+        "details": "Nos sumergimos en el epicentro de la revolución tecnológica actual. Conversamos con ingenieros y visionarios sobre el avance exponencial de la inteligencia artificial generativa, la robótica colaborativa en la medicina y cómo la computación cuántica podría resolver problemas climáticos en la próxima década.",
+        "episode": "Episodio 03",
+        "tags": ["Tecnología", "IA", "Computación Cuántica", "Futuro", "Innovación", "Ética Digital", "Robótica"],
+        "transcript": "Lucía Bennett habla con visionarios. 'La IA no reemplazará al humano, pero el humano que use IA reemplazará al que no', afirma Julian Vane. Analizamos el potencial de la computación cuántica y los dilemas éticos de automatizar la medicina. ¿Estamos listos para un futuro donde la máquina sea nuestra colega?",
+        "quiz": [
+            { "question": "¿Realmente la Inteligencia Artificial va a reemplazar los trabajos humanos?", "answer": "El episodio plantea que la IA no reemplaza al humano, sino que el humano que sabe usar IA reemplazará al que no lo hace." },
+            { "question": "¿Qué problema crítico podría resolver la computación cuántica en los próximos años?", "answer": "Tiene el potencial de procesar datos complejos para resolver crisis climáticas y optimizar la medicina a niveles moleculares." },
+            { "question": "¿Es posible una robótica que colabore con nosotros en lugar de solo automatizarnos?", "answer": "Sí, se explora el concepto de robótica colaborativa, diseñada para potenciar habilidades humanas en cirugías y labores de precisión." }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "/episode-4.png",
+        "host": "Devon Lane",
+        "guest": "Clara Solís, guionista de comedia y socióloga, reconocida por su estudio sobre la risa como mecanismo de defensa en contextos de crisis social.",
+        "time": "40m",
+        "title": "La risa que nos conecta",
+        "description": "Exploramos el humor, la escritura cómica y cómo la risa une a las personas en cualquier contexto.",
+        "details": "El humor es mucho más que entretenimiento; es una herramienta de supervivencia social. En este episodio, desglosamos la anatomía de un chiste, exploramos la técnica del 'timing' cómico y discutimos cómo la comedia actúa como un espejo de las tensiones sociales.",
+        "episode": "Episodio 04",
+        "tags": ["Humor", "Sociología", "Comedia", "Sátira", "Bienestar", "Conexión Social", "Guion"],
+        "transcript": "Devon Lane explora el poder del humor. 'Un chiste es una sorpresa con sentido', nos dice Clara Solís. Hablamos sobre el timing y cómo la risa sirve como válvula de escape social. La sátira política se analiza no como burla, sino como una crítica necesaria para la democracia.",
+        "quiz": [
+            { "question": "¿Es el humor simplemente una forma de entretenimiento?", "answer": "No, es una herramienta de supervivencia social que permite derribar barreras culturales y procesar tensiones sociales." },
+            { "question": "¿Qué importancia tiene el 'timing' en la comunicación efectiva?", "answer": "El timing no solo crea el efecto cómico, sino que determina si un mensaje es recibido con apertura o resistencia emocional." },
+            { "question": "¿Puede la sátira política influir realmente en la percepción de la realidad?", "answer": "Sí, actúa como un espejo crítico que permite cuestionar el poder desde una perspectiva más accesible y humana." }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "/episode-5.png",
+        "host": "Harry McKenzie",
+        "guest": "Sara Miller, productora galardonada de audio-documentales y experta en diseño acústico para plataformas de streaming global.",
+        "time": "53m",
+        "title": "Detrás del micrófono",
+        "description": "Los secretos de la creación de podcasts: narrativa, producción y cómo conectar con la audiencia.",
+        "details": "Un episodio esencial para aspirantes a creadores de contenido. Harry McKenzie revela el proceso técnico y creativo detrás de un podcast exitoso: desde la elección del equipo de grabación adecuado y el tratamiento acústico, hasta el diseño de una estructura narrativa.",
+        "episode": "Episodio 05",
+        "tags": ["Podcasting", "Producción de Audio", "Contenido Digital", "Diseño Sonoro", "Streaming", "Medios de Comunicación"],
+        "transcript": "Harry McKenzie nos lleva al estudio. 'El contenido es el rey, pero el audio es la reina que permite que el rey hable', bromea Sara Miller. Consejos sobre micrófonos, acústica casera y el arte de hacer questions que abran el corazón de los invitados.",
+        "quiz": [
+            { "question": "¿Qué es más importante al empezar: el equipo costoso o la estructura de la historia?", "answer": "La estructura narrativa es el alma del podcast; sin ella, la mejor calidad de audio no retendrá a la audiencia." },
+            { "question": "¿Cómo se logra una entrevista donde el invitado cuente cosas que nunca ha dicho?", "answer": "Mediante técnicas de escucha activa y la creación de un espacio seguro basado en la empatía y la curiosidad real." },
+            { "question": "¿Basta con subir el audio a una plataforma para tener éxito?", "answer": "No, requiere una estrategia de distribución y un diseño sonoro que cree una atmósfera inmersiva para el oyente." }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "/episode-6.png",
+        "host": "Jordan Davis",
+        "guest": "Simón Castillo, ex-atleta olímpico y coach de resiliencia, quien tras una lesión transformó su carrera hacia el liderazgo empresarial de alto impacto.",
+        "time": "1h 10m",
+        "title": "Triunfos y resiliencia",
+        "description": "Historias inspiradoras de victorias personales, fracasos superados y crecimiento transformador.",
+        "details": "A través de entrevistas íntimas, exploramos la capacidad del espíritu humano para regenerarse tras la adversidad. Este episodio presenta relatos reales de emprendedores que lo perdieron todo y atletas que superaron lesiones incapacitantes.",
+        "episode": "Episodio 07",
+        "tags": ["Resiliencia", "Superación", "Deportes", "Liderazgo", "Motivación", "Salud Mental", "Crecimiento Personal"],
+        "transcript": "Jordan Davis nos inspira. 'La resiliencia no es aguantar el golpe, es saber cómo levantarse después', afirma Simón Castillo. Escuchamos historias de quiebras financieras y recuperaciones físicas. El cerebro puede reconfigurarse para encontrar oportunidad en la crisis.",
+        "quiz": [
+            { "question": "¿La resiliencia es algo con lo que se nace o se puede entrenar?", "answer": "Es una capacidad psicológica que se fortalece a través de la adversidad y el uso de herramientas prácticas de regeneración emocional." },
+            { "question": "¿Cómo puede un fracaso total convertirse en un catalizador de éxito?", "answer": "Proporciona lecciones críticas que la victoria no enseña, obligando a una reestructuración mental y profesional profunda." },
+            { "question": "¿Qué nos enseña el deporte de alto rendimiento sobre la vida diaria?", "answer": "La disciplina de levantarse tras una lesión física es la misma que se requiere para superar quiebras o crisis personales." }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "/episode-7.png",
+        "host": "Kenneth Hayes",
+        "guest": "Chef Amira Haddad, historiadora gastronómica especializada en la influencia de las rutas migratorias en la cocina contemporánea de fusión.",
+        "time": "1hr 05m",
+        "title": "Sabores del mundo",
+        "description": "Un viaje gastronómico global que explora cultura, tradición y los sabores que nos definen.",
+        "details": "La comida es el lenguaje universal de la cultura. En este viaje sensorial, recorremos desde los mercados de especias en Estambul hasta la alta cocina de Lima. Discutimos cómo la migración ha fusionado sabores tradicionales.",
+        "episode": "Episodio 08",
+        "tags": ["Gastronomía", "Cultura", "Historia", "Viajes", "Cocina Fusión", "Tradición", "Antropología"],
+        "transcript": "Kenneth Hayes nos invita a la mesa. 'Dime qué comes y te diré de dónde vienes', dice la Chef Amira. Viajamos por el ceviche y el curry. Analizamos cómo la comida preserva la historia de los pueblos incluso en la migración. La cocina es amor compartido.",
+        "quiz": [
+            { "question": "¿Cómo la migración ha redefinido lo que hoy llamamos 'platos típicos'?", "answer": "Ha creado identidades culinarias de fusión que son el registro histórico de los movimientos humanos y el intercambio cultural." },
+            { "question": "¿Es la gastronomía realmente un lenguaje universal?", "answer": "Sí, es el medio más íntimo de preservación histórica y un acto de amor que trasciende fronteras lingüísticas." },
+            { "question": "¿Por qué ingredientes que hoy son básicos fueron el motor de guerras en el pasado?", "answer": "Porque las especias e ingredientes representaban poder, comercio y el descubrimiento de nuevas rutas mundiales." }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "/episode-8.png",
+        "host": "Lucía Bennett",
+        "guest": "Dra. Miriam Kahan, psiquiatra y guía de meditación Vipassana, pionera en la integración de mindfulness en entornos corporativos de alta presión.",
+        "time": "58m",
+        "title": "Encontrando paz interior",
+        "description": "Una conversación serena sobre mindfulness, equilibrio emocional y claridad mental en tiempos caóticos.",
+        "details": "En un mundo hiperconectado y ruidoso, la salud mental es nuestra mayor riqueza. Lucía Bennett guía una sesión sobre técnicas de meditación aplicables a la vida diaria, el manejo de la ansiedad y límites digitales.",
+        "episode": "Episodio 10",
+        "tags": ["Mindfulness", "Salud Mental", "Meditación", "Bienestar", "Ansiedad", "Slow Living", "Equilibrio"],
+        "transcript": "Lucía Bennett nos trae calma. 'Estar presente es el regalo más grande', comenta la Dra. Miriam. Hablamos del slow living, de desconectar el móvil y de por qué la autocompasión es la base de una salud mental fuerte.",
+        "quiz": [
+            { "question": "¿Se puede practicar mindfulness aunque tengas una agenda muy ocupada?", "answer": "Sí, el mindfulness no es solo meditar sentado, sino aprender a trabajar y caminar con presencia total y atención plena." },
+            { "question": "¿Qué impacto tiene el 'ruido digital' en nuestra ansiedad diaria?", "answer": "La hiperconexión fragmenta nuestra atención; establecer límites digitales es el primer paso para recuperar la claridad mental." },
+            { "question": "¿Por qué la autocompasión es clave para el equilibrio emocional?", "answer": "Porque tratarte con la misma amabilidad que a un amigo reduce el estrés y fortalece la resiliencia ante los errores." }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "/episode-9.png",
+        "host": "Valeria Cruz",
+        "guest": "Ing. Roberto Chen, director de innovación tecnológica y experto en ciberseguridad aplicada a la infraestructura de ciudades inteligentes.",
+        "time": "1h 25m",
+        "title": "Explorando las innovaciones del futuro",
+        "description": "IA, automatización y transformación digital: hacia dónde se dirige realmente la tecnología.",
+        "details": "Valeria Cruz analiza las tendencias tecnológicas que están redefiniendo la industria 4.0. Este episodio ofrece una visión técnica sobre la automatización de procesos y el impacto del 5G en el Internet de las Cosas (IoT).",
+        "episode": "Episodio 11",
+        "tags": ["Industria 4.0", "5G", "IoT", "Ciberseguridad", "Transformación Digital", "Automatización", "Smart Cities"],
+        "transcript": "Valeria Cruz profundiza en la Industria 4.0. 'El 5G es la infraestructura de un mundo conectado en tiempo real', explica Roberto Chen. Debatimos sobre automatización en logística y privacidad de datos.",
+        "quiz": [
+            { "question": "¿Cómo cambiará el 5G la forma en que interactuamos con nuestros hogares?", "answer": "Permitirá una conexión masiva de dispositivos (IoT) en tiempo real, haciendo que la automatización sea invisible y eficiente." },
+            { "question": "¿Cuál es el mayor reto ético de la industria 4.0?", "answer": "Garantizar la privacidad de los datos personales mientras disfrutamos de la personalización extrema que ofrecen los algoritmos." },
+            { "question": "¿Deben las empresas tradicionales transformarse digitalmente para sobrevivir?", "answer": "Totalmente; la reinvención digital ya no es una opción, sino una necesidad para mantenerse relevantes en el nuevo mercado." }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "/episode-10.png",
+        "host": "Mateo Brooks",
+        "guest": "Laura Estévez, fundadora de tres startups tecnológicas y mentora de aceleradoras, experta en gestión de crisis y levantamiento de capital.",
+        "time": "1h 05m",
+        "title": "Emprendedores sin filtro",
+        "description": "Historias reales de startups, lecciones aprendidas en el camino y perspectivas de negocio sin vueltas.",
+        "details": "Lejos del glamour de Silicon Valley, Mateo Brooks conversa con fundadores sobre la cruda realidad del emprendimiento. Discutimos la dificultad de conseguir capital semilla y el sacrificio personal.",
+        "episode": "Episodio 12",
+        "tags": ["Emprendimiento", "Startups", "Negocios", "Inversión", "Estrategia", "Gestión de Crisis", "Liderazgo"],
+        "transcript": "Mateo Brooks muestra el lado B. 'Emprender es comer vidrio y caminar sobre brasas mientras sonríes', dice Laura Estévez. Hablamos de pivoteo, capital semilla y salud mental del fundador.",
+        "quiz": [
+            { "question": "¿Es el levantamiento de capital el primer paso para una startup exitosa?", "answer": "No necesariamente; la validación real del mercado y entender el dolor del cliente son pasos previos vitales antes de buscar inversión." },
+            { "question": "¿Qué significa 'pivotear' en el contexto de los negocios?", "answer": "Es la capacidad estratégica de cambiar el rumbo del proyecto cuando los datos demuestran que el modelo inicial no funciona." },
+            { "question": "¿Por qué se habla tanto de la salud mental del fundador?", "answer": "Porque liderar un proyecto propio conlleva un desgaste personal inmenso que puede nublar la toma de decisiones si no se gestiona." }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "/episode-11.png",
+        "host": "Sofía Morales",
+        "guest": "Tomás Aranda, arquitecto y diseñador multimedia, cuyo trabajo se centra en cómo el espacio habitable potencia la neuroplasticidad y la creatividad.",
+        "time": "48m",
+        "title": "Mentes creativas en acción",
+        "description": "Conversaciones con creadores que convierten imaginación en impacto tangible y duradero.",
+        "details": "Exploramos el 'caos ordenado' de los procesos creativos. Sofía Morales entrevista a artistas y arquitectos para entender cómo superan el bloqueo creativo y transforman una chispa en producto.",
+        "episode": "Episodio 13",
+        "tags": ["Creatividad", "Diseño", "Arquitectura", "Arte", "Neuroplasticidad", "Innovación", "Proceso Creativo"],
+        "transcript": "Sofía Morales entra en la mente artística. 'La creatividad es un músculo que se entrena', afirma Tomás Aranda. Discutimos cómo el orden físico libera el desorden creativo necesario para innovar.",
+        "quiz": [
+            { "question": "¿Qué es el 'caos ordenado' en un proceso creativo?", "answer": "Es la etapa donde permitimos que fluyan ideas abstractas antes de estructurarlas en un producto o diseño final duradero." },
+            { "question": "¿Cómo influye el espacio donde trabajas en tu capacidad de innovar?", "answer": "El entorno físico puede actuar como un disparador de la neuroplasticidad o como una barrera para la generación de ideas disruptivas." },
+            { "question": "¿Qué hacer cuando aparece el bloqueo creativo?", "answer": "Recurrir a la curiosidad interdisciplinaria: buscar inspiración en áreas totalmente ajenas a la nuestra." }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "/episode-12.png",
+        "host": "Devon Lane",
+        "guest": "Héctor Lugo, arqueólogo forense y criptógrafo, especializado en el desciframiento de lenguas muertas y anomalías históricas.",
+        "time": "46m",
+        "title": "Misterios sin resolver",
+        "description": "Investigamos casos extraños, historias enigmáticas y questions que aún no tienen answer.",
+        "details": "Un análisis exhaustivo de enigmas históricos y científicos. Desde antiguos manuscritos indescifrables hasta señales de radio captadas desde el espacio profundo.",
+        "episode": "Episodio 15",
+        "tags": ["Enigmas", "Arqueología", "Criptografía", "Ciencia", "Historia Oculta", "Astronomía", "Misterio"],
+        "transcript": "Devon Lane nos trae enigmas. 'La ciencia avanza, pero el misterio nos lleva la delantera', reflexiona Héctor Lugo. Analizamos señales espaciales y manuscritos antiguos usando nuevas tecnologías forenses.",
+        "quiz": [
+            { "question": "¿Existen señales espaciales que la ciencia aún no pueda explicar?", "answer": "Sí, hay ráfagas de radio y señales captadas que desafían nuestras teorías actuales sobre la vida y el cosmos." },
+            { "question": "¿Cómo ayudan las nuevas tecnologías forenses a resolver enigmas de hace milenios?", "answer": "Permiten analizar ADN antiguo y manuscritos indescifrables con una precisión que era imposible hace apenas una década." },
+            { "question": "¿Por qué seguimos fascinados por los misterios históricos?", "answer": "Porque entender nuestro pasado oculto es la clave para no repetir errores y descubrir nuestra verdadera identidad como especie." }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "/episode-13.png",
+        "host": "Evans Stewart",
+        "guest": "Dra. Naomi Ward, socióloga digital y analista de datos, experta en el comportamiento de masas bajo la influencia de algoritmos de recomendación.",
+        "time": "1h 16m",
+        "title": "Vida en la era digital",
+        "description": "Cómo la tecnología está redefiniendo el comportamiento humano y transformando la sociedad actual.",
+        "details": "Observamos cómo el uso constante de redes sociales y algoritmos de personalización está alterando nuestra percepción de la realidad. Evans Stewart discute cámaras de eco y la economía de la atención.",
+        "episode": "Episodio 16",
+        "tags": ["Cultura Digital", "Redes Sociales", "Sociología", "Algoritmos", "Privacidad", "Comportamiento Humano", "Big Data"],
+        "transcript": "Evans Stewart analiza nuestra vida online. 'Vivimos en burbujas creadas por algoritmos', advierte la Dra. Naomi. Hablamos de la economía de la atención y de la identidad digital frente a la física.",
+        "quiz": [
+            { "question": "¿Estamos perdiendo el pensamiento crítico debido a los algoritmos?", "answer": "Los algoritmos crean cámaras de eco que refuerzan lo que ya creemos; el reto es salir de esas burbujas informativas de forma consciente." },
+            { "question": "¿Qué es la 'economía de la atención'?", "answer": "Es el modelo donde nuestro tiempo y enfoque son el producto más valioso y disputado por las grandes plataformas tecnológicas." },
+            { "question": "¿Cómo convive nuestra identidad física con la digital?", "answer": "Navegamos en una dualidad donde nuestra presencia online a menudo proyecta una versión idealizada que impacta nuestra autoestima real." }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "/episode-14.png",
+        "host": "Harry McKenzie",
+        "guest": "Leo Franchetti, veterano director de programas de sátira política y profesor de narrativa cómica en la Escuela Superior de Artes.",
+        "time": "1h 30m",
+        "title": "La comedia detrás de escena",
+        "description": "Desglosamos qué hace que la comedia sea atemporal, relevante y universalmente conectiva.",
+        "details": "Harry McKenzie se adentra en la sala de escritores. Analizamos cómo se construye un guion cómico, la importancia del remate y cómo los comediantes utilizan la tragedia personal como materia prima.",
+        "episode": "Episodio 17",
+        "tags": ["Comedia", "Guionismo", "Sátira", "Artes Escénicas", "Análisis Literario", "Entretenimiento"],
+        "transcript": "Harry McKenzie revela el guion. 'Tragedia más tiempo es igual a comedia', dice Leo Franchetti. Analizamos el ritmo de los chistes y la comedia como válvula de escape en sociedades bajo presión.",
+        "quiz": [
+            { "question": "¿Se puede aprender a ser gracioso o es un talento innato?", "answer": "Aunque hay talento, la comedia tiene una técnica rigurosa basada en el ritmo narrativo, la estructura del remate y la observación social." },
+            { "question": "¿Por qué los comediantes suelen usar sus tragedias personales como chistes?", "answer": "Porque el humor es un mecanismo de sanación que permite transformar el dolor en una conexión universal con la audiencia." },
+            { "question": "¿Qué papel juega la comedia en sociedades bajo mucha presión?", "answer": "Funciona como una válvula de escape necesaria que permite abordar temas tabú o verdades incómodas de manera segura." }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "/episode-15.png",
+        "host": "Kamala Holquist",
+        "guest": "Ing. Sounder Bass, diseñador sonoro de cine y experto en psicoacústica, dedicado a crear experiencias auditivas inmersivas de 360 grados.",
+        "time": "1h 09m",
+        "title": "El poder de la narrativa en audio",
+        "description": "Cómo la voz, el sonido y el ritmo crean historias memorables que permanecen contigo.",
+        "details": "Kamala Holquist explora el diseño sonoro inmersivo. Discutimos cómo la música ambiental, el silencio y la voz pueden transportar al oyente a otros mundos.",
+        "episode": "Episodio 19",
+        "tags": ["Diseño Sonoro", "Cine", "Psicoacústica", "Audio Inmersivo", "Narrativa", "Comunicación Audiovisual"],
+        "transcript": "Kamala nos hace cerrar los ojos. 'El silencio grita más que cualquier sonido', explica Sounder Bass. Exploramos cómo el diseño sonoro evoca emociones sin usar palabras. El audio es intimidad pura.",
+        "quiz": [
+            { "question": "¿Cómo puede el sonido hacernos sentir emociones sin usar una sola palabra?", "answer": "Mediante la psicoacústica, donde frecuencias y ritmos específicos disparan answers emocionales directas en nuestro cerebro." },
+            { "question": "¿Por qué el audio se considera el medio más íntimo?", "answer": "Porque la voz de alguien suena literalmente dentro de tu cabeza, creando una conexión personal que el video no puede replicar." },
+            { "question": "¿Qué importancia tiene el silencio en un diseño sonoro profesional?", "answer": "El silencio es una herramienta narrativa poderosa; se usa para crear tensión, énfasis y espacio para la reflexión del oyente." }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "/episode-16.png",
+        "host": "Evans Stewart",
+        "guest": "Valentina Ortiz, activista de derechos civiles y rescatista de montaña, quien comparte su visión sobre el coraje civil en situaciones extremas.",
+        "time": "57m",
+        "title": "Historias de valentía",
+        "description": "Narrativas poderosas sobre coraje, perseverancia y esperanza en momentos difíciles.",
+        "details": "Testimonios de personas en situaciones límite. Desde activistas hasta ciudadanos comunes que enfrentaron desastres naturales. La valentía no es ausencia de miedo, sino acción.",
+        "episode": "Episodio 20",
+        "tags": ["Valentía", "Derechos Civiles", "Supervivencia", "Acción Social", "Inspiración", "Testimonios"],
+        "transcript": "Evans Stewart presenta héroes reales. 'La valentía es actuar con miedo', dice Valentina Ortiz. Escuchamos relatos de supervivencia que demuestran que la acción colectiva cambia la historia.",
+        "quiz": [
+            { "question": "¿Es valiente quien no siente miedo?", "answer": "No, la valentía se define precisamente por la capacidad de actuar y tomar decisiones heroicas a pesar de sentir miedo profundo." },
+            { "question": "¿Cómo influye la acción de una sola persona en un movimiento colectivo?", "answer": "Un solo acto de coraje puede romper la parálisis social e inspirar a otros a unirse por una causa común." },
+            { "question": "¿Qué nos motiva a arriesgarnos por los demás en situaciones de desastre?", "answer": "Es un instinto humano de preservación comunitaria y esperanza de que nuestra acción pueda cambiar el curso de la historia." }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "/episode-17.png",
+        "host": "Sofía Morales",
+        "guest": "Dr. Marco Polo Jr., antropólogo cultural y explorador culinario para revistas geográficas, experto en el origen de las especias.",
+        "time": "45m",
+        "title": "Rutas del sabor global",
+        "description": "Descubriendo las historias detrás de los platillos icónicos que definen culturas alrededor del mundo.",
+        "details": "Antropología de la alimentación. Sofía Morales nos guía por la ruta de la seda y el intercambio transatlántico de ingredientes que dio forma a la gastronomía moderna.",
+        "episode": "Episodio 21",
+        "tags": ["Antropología", "Gastronomía", "Historia Mundial", "Especias", "Cultura", "Comercio Histórico"],
+        "transcript": "Sofía Morales viaja por el paladar. 'Un tomate es el resultado de siglos de comercio', dice Marco Polo Jr. La cocina de subsistencia se volvió arte y pilar de la cohesión familiar.",
+        "quiz": [
+            { "question": "¿Cómo llegó el tomate o la papa a ser esenciales en la cocina europea?", "answer": "Fue a través del intercambio transatlántico, un movimiento que cambió la nutrición y la economía del mundo entero." },
+            { "question": "¿Qué nos dice la comida de subsistencia sobre la creatividad humana?", "answer": "Que los grandes platos de la historia nacieron a menudo de la necesidad, convirtiendo ingredientes humildes en arte culinario." },
+            { "question": "¿Por qué los rituales de mesa siguen siendo tan importantes hoy?", "answer": "Porque son el último espacio de desconexión digital y conexión humana profunda que mantiene la cohesión familiar y social." }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "/episode-18.png",
+        "host": "Jordan Davis",
+        "guest": "Dra. Linda Peterson, neurocientífica especializada en los efectos del estrés crónico y cómo la práctica sostenida de mindfulness restaura el sistema nervioso.",
+        "time": "1h 22m",
+        "title": "Mindfulness en el día a día",
+        "description": "Técnicas prácticas de atención plena para construir un estilo de vida más tranquilo y consciente.",
+        "details": "Guía maestra sobre mindfulness en rutinas ocupadas. No es solo meditar, sino comer, caminar y trabajar con presencia total y beneficios neurológicos validados.",
+        "episode": "Episodio 22",
+        "tags": ["Mindfulness", "Neurociencia", "Salud", "Estrés", "Atención Plena", "Estilo de Vida", "Bienestar"],
+        "transcript": "Jordan Davis nos enseña el aquí y ahora. 'Solo el presente es real', concluye la Dra. Linda. Aprendemos cómo la meditación cambia físicamente el cerebro para mejor.",
+        "quiz": [
+            { "question": "¿Qué cambios físicos ocurren en el cerebro tras practicar meditación?", "answer": "Estudios científicos demuestran que la meditación sostenida fortalece áreas del cerebro asociadas con el control emocional y la atención." },
+            { "question": "¿Es el mindfulness una forma de evasión de la realidad?", "answer": "Al contrario, es una forma de presencia total que nos permite enfrentar la realidad con más calma y sin juicios automáticos." },
+            { "question": "¿Cómo puedo integrar la respiración consciente en mi trabajo?", "answer": "Aprendiendo ejercicios cortos que reinician el sistema nervioso en momentos de alta tensión laboral para recuperar el foco." }
+        ]
+    }
+]
