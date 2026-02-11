@@ -1,6 +1,6 @@
 # 🎙️ WaveCast · Tu Podcast, Tu Voz, Tu Historia 🎧
 
-[![WaveCast](./public/wavecast-preview.png)](https://wavecast-demo.vercel.app/)
+[![WaveCast](./public/wavecast-preview.png)](https://wave-cast-flax.vercel.app/)
 
 Bienvenido a **WaveCast**, la plataforma moderna de podcasting que conecta creadores de contenido con audiencias apasionadas. Creemos que **cada voz merece ser escuchada, cada historia merece ser contada y cada conversación puede transformar vidas**.
 
@@ -93,7 +93,7 @@ Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina:
 
 1. **Clona el repositorio:**
 ```bash
-git clone https://github.com/tu-usuario/wavecast.git
+git clone https://github.com/carlossilvadev10/wave-cast.git
 ```
 
 2. **Entra en el directorio del proyecto:**
@@ -163,7 +163,7 @@ npm run lint         # Ejecuta el linter de código
 
 Este proyecto está optimizado para Vercel:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
+[![Deploy with Vercel](https://vercel.com/button)](https://wave-cast-flax.vercel.app/)
 
 1. Conecta tu repositorio con Vercel
 2. Deploy automático en cada push
