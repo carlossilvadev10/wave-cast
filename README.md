@@ -49,12 +49,12 @@ Nuestro objetivo es **democratizar el acceso al podcasting** con una plataforma 
 ## 📂 Estructura del Proyecto
 ```
 wavecast/
-├── app/                    # App Router de Next.js
+├── app/                   # App Router de Next.js
 │   ├── about/             # Página sobre nosotros
 │   ├── blog/              # Blog y artículos
 │   ├── contact/           # Formulario de contacto
 │   ├── episode/           # Episodios del podcast
-│   ├── faq/              # Preguntas frecuentes
+│   ├── faq/               # Preguntas frecuentes
 │   ├── host-profile/      # Perfiles de hosts
 │   ├── index/             # Página principal (Home)
 │   └── pricing/           # Planes y precios
@@ -98,7 +98,7 @@ git clone https://github.com/carlossilvadev10/wave-cast.git
 
 2. **Entra en el directorio del proyecto:**
 ```bash
-cd wavecast
+cd wave-cast
 ```
 
 3. **Instala las dependencias:**
